@@ -6,4 +6,5 @@
 #main purpose is checking the status
 #checking ddiff
 #adding and merging
-
+#automatic merging
+#confliting merges and resolution
