@@ -3,4 +3,7 @@
 #Purpose
 #Deployment
 #How to contribute
+#main purpose is checking the status
+
+
 
